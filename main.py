@@ -40,8 +40,7 @@ try:
     page_to_scrape.find_element(By.ID, "idBtn_Back").click()
     time.sleep(5)
 
-    link_element = page_to_scrape.find_element(By.XPATH, "//a[@https://cs.elfak.ni.ac.rs/nastava/course/view.php?id=45']")
-    link_element.click()
+    page_to_scrape.find_element(By.LINK_TEXT, "OOP").click()
     time.sleep(5)
 
     link_element = page_to_scrape.find_element(By.XPATH, "//a[@https://cs.elfak.ni.ac.rs/nastava/mod/forum/view.php?id=1051']")
