@@ -15,6 +15,6 @@ for url in WEBHOOK_URL:
 
     
     # Send the embed and attach the image
-    hook.send(file=File(image2_path, name='cs-lp-nova-obavestenja.png'))
+    hook.send(file=File(image2_path, name='cs-oop-nova-obavestenja.png'))
 
     hook.send('**>>> https://cs.elfak.ni.ac.rs/nastava/**')
