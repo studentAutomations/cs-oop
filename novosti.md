@@ -623,18 +623,10 @@ Anđelija Đorđević
 Next page
 Jump to...
                     Jump to...
-                    Predavanja 1_4
-                    Predavanja 5
-                    Predavanja 6
-                    Predavanja 7
-                    Predavanja 8
-                    Predavanja 9
-                    STL
-                    Predavanja 10
-                    Predavanja 10 drugi deo
-                    Predavanja 11
-                    Predavanja 12
-                    Predavanja 13
+                    Predavanja_1_4
+                    Predavanja_5
+                    Predavanja_6
+                    Predavanja_const
                     OOP - Računske vežbe (prezentacije)
                     OOP RV01
                     OOP RV02
@@ -660,4 +652,4 @@ Jump to...
                     OOP 2022 - LV III (zadaci)
                     OOP 2022 - LV IV (zadaci)
                     OOP 2022 - LV V (zadaci)
-         Predavanja 1_4 ►
+         Predavanja_1_4 ►
