@@ -36,7 +36,7 @@ try:
     page_to_scrape.find_element(By.ID, "idBtn_Back").click()
     time.sleep(2)
 
-    page_to_scrape.find_element(By.LINK_TEXT, "LP").click()
+    page_to_scrape.find_element(By.LINK_TEXT, "OOP").click()
     time.sleep(2)
 
     link_element = page_to_scrape.find_element(By.XPATH, "/html/body/div[1]/div[2]/div/div[1]/section/div/div/ul/li[1]/div[3]/ul/li/div/div/div[2]/div/a/span")
