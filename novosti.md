@@ -9,10 +9,16 @@ Separate groups: Generacija 2023/2024
 5
 »
 Next page
-List of discussions. Showing 100 of 435 discussions
+List of discussions. Showing 100 of 436 discussions
 Status
 Discussion Group Started by Last post Replies
 Actions
+ООП- Рачунске вежбе - 5. децембар- ОДЛАГАЊЕ
+Aleksandar Milenkovic
+2 Dec 2024
+Aleksandar Milenkovic
+2 Dec 2024
+0
 OOP - Elektronika
 Anđelija Đorđević
 2 Dec 2024
@@ -607,12 +613,6 @@ Aleksandar Veljanovski
 Aleksandar Veljanovski
 21 Sep 2021
 0
-OOP - rezultati u oktobarskom ispitnom roku
-Aleksandar Veljanovski
-14 Sep 2021
-Aleksandar Veljanovski
-16 Sep 2021
-2
 1
 (current)
 2
