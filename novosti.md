@@ -9,10 +9,16 @@ Separate groups: Generacija 2023/2024
 5
 »
 Next page
-List of discussions. Showing 100 of 434 discussions
+List of discussions. Showing 100 of 435 discussions
 Status
 Discussion Group Started by Last post Replies
 Actions
+OOP - Elektronika
+Anđelija Đorđević
+2 Dec 2024
+Anđelija Đorđević
+2 Dec 2024
+0
 Raspored laboratorijskih vežbi - smer Elektronika
 Anđelija Đorđević
 30 Oct 2024
@@ -607,12 +613,6 @@ Aleksandar Veljanovski
 Aleksandar Veljanovski
 16 Sep 2021
 2
-OOP - Rezultati ispita u septembarskom ispitnom roku
-Anđelija Đorđević
-7 Sep 2021
-Anđelija Đorđević
-7 Sep 2021
-0
 1
 (current)
 2
