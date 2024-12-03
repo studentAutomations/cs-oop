@@ -1,14 +1,3 @@
-Obaveštenja
-Opšte novosti i najave
-Separate groups: Generacija 2023/2024
-1
-(current)
-2
-3
-4
-5
-»
-Next page
 List of discussions. Showing 100 of 436 discussions
 Status
 Discussion Group Started by Last post Replies
@@ -613,43 +602,3 @@ Aleksandar Veljanovski
 Aleksandar Veljanovski
 21 Sep 2021
 0
-1
-(current)
-2
-3
-4
-5
-»
-Next page
-Jump to...
-                    Jump to...
-                    Predavanja_1_4
-                    Predavanja_5
-                    Predavanja_6
-                    Predavanja_const
-                    OOP - Računske vežbe (prezentacije)
-                    OOP RV01
-                    OOP RV02
-                    OOP RV03
-                    OOP RV04
-                    OOP RV04 - dodatak
-                    OOP RV05
-                    OOP RV06
-                    OOP RV06 - non-virtual-destructor
-                    OOP RV07
-                    OOP RV08
-                    OOP RV08+ - dodatak
-                    OOP RV09
-                    OOP RV10
-                    OOP RV11
-                    OOP RV12
-                    OOP RV12+ - dodatak
-                    Dodatni primeri
-                    Raspored Lab 2024-25
-                    Smer Elektronika - Laboratorijske vežbe 2024.
-                    OOP 2022 - LV I (zadaci)
-                    OOP 2022 - LV II (zadaci)
-                    OOP 2022 - LV III (zadaci)
-                    OOP 2022 - LV IV (zadaci)
-                    OOP 2022 - LV V (zadaci)
-         Predavanja_1_4 ►
