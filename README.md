@@ -3,22 +3,22 @@
 Ovaj projekat je **web scraper** koji automatski prati i beleži nove objave sa određenog sajta, a zatim obaveštava korisnike putem Discord aplikacije.
 
 ## Funkcionalnosti
-- **Praćenje novih obaveštenja:** Program koristi Selenium za redovnu proveru sajta kako bi detektovao nove objave.
-- **Čuvanje novosti:** Scrapovani sadržaj se automatski beleži i čuva u `.md` fajlu na ovom GitHub repozitorijumu.
+- **Praćenje novih obaveštenja:** Program koristi Selenium za scraping i prikupljanje podataka sa sajta.
+- **Čuvanje novosti:** Forkovani repozitorijum [git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) omogućava automatsko otkrivanje novih objava i njihovo čuvanje u `.md` fajlu.
 - **Automatsko slikanje:** Generiše se screenshot relevantne objave.
 - **Deljenje informacija:** Uz pomoć Discord webhook linka, slika i link ka novoj objavi šalju se korisnicima.
-- **Automatizacija:** Koristi GitHub Actions za periodično pokretanje scrapper-a i ažuriranje podataka.
+- **Automatizacija:** GitHub Actions periodično pokreće scraper i ažurira podatke.
 
 ## Korišćene tehnologije
-- **Selenium:** Za navigaciju i interakciju sa web stranicama.
+- **Selenium:** Za scraping i interakciju sa sadržajem sajta.
 - **GitHub Actions:** Za automatizaciju pokretanja scrapper-a i ažuriranje `.md` fajla.
 - **Discord Webhook:** Za slanje obaveštenja korisnicima.
-- **Kod iz forka:** Za čuvanje scrapovanih sadržaja u `.md` fajlu koristi se [git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) koji je forkovan u [automatic-changes](https://github.com/studentAutomations/automatic-changes).
+- **Kod iz forka:** Za poređenje i otkrivanje novih objava koristi se [git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action), forkovan u [automatic-changes](https://github.com/studentAutomations/automatic-changes).
 
 ## Kako funkcioniše
 1. **Periodično pokretanje:** GitHub Actions aktivira skriptu u unapred definisanim intervalima.
-2. **Scraping:** Selenium pretražuje sajt i detektuje nove objave.
-3. **Ažuriranje novosti:** Nove objave se dodaju u `.md` fajl u ovom repozitorijumu.
+2. **Scraping:** Selenium pretražuje sajt i prikuplja podatke o objavama.
+3. **Otkrivanje novosti:** Forkovani kod proverava da li postoje nove objave i, ako postoje, automatski ih dodaje u `.md` fajl.
 4. **Slanje obaveštenja:** Screenshot i link ka objavi šalju se putem Discord webhook-a svim korisnicima.
 
 ## Kako koristiti
