@@ -1,1 +1,1 @@
-**Web scraper za Objektno Orijentisano Programiranje**
+**Web scraper za Objektno-orijentisano programiranje**
