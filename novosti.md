@@ -1,6 +1,6 @@
 Advanced search...
 Forums
-Search results: 74
+Search results: 75
 1
 (current)
 2
@@ -12,6 +12,14 @@ Search results: 74
 8
 »
 Next page
+Obaveštenja -> OOП - Први колоквијум
+by Anđelija Đorđević - Tuesday, 10 December 2024, 12:19 PM
+Први колоквијум ће се одржати у среду, 11. децембра у два термина са почетком у 14.15 и 16.15 по следећем распореду:
+
+Израда колоквијума траје сат и по времена. 
+Моле се студенти да дођу 10 минута раније.
+Permalink
+See this post in context
 Obaveštenja -> ООП- Рачунске вежбе - 5. децембар- ОДЛАГАЊЕ
 by Aleksandar Milenkovic - Monday, 2 December 2024, 3:44 PM
 Обавештење
@@ -124,13 +132,6 @@ by Aleksandar Veljanovski - Thursday, 19 September 2024, 3:45 PM
 Упис оцена у понедељак 22.09.2024. у 10:00 у 533.
 
 Rezultati - ocene.pdf
-Permalink
-See this post in context
-Obaveštenja -> Резултати писменог дела испита (октобар 2024)
-by Aleksandar Veljanovski - Monday, 9 September 2024, 2:29 PM
-Резултати писменог дела испита студената који су полагали испит из предмета Објектно оријентисано програмирање у року октобар наставне 2023/2024. године налазе се у прилогу овог обавештења.
-Усмени део испита ће бити у среду 18.9.2024. године од 15:00 у просторији А1.
-
 Permalink
 See this post in context
 1
