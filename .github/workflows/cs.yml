@@ -1,15 +1,14 @@
-name: CS OOP Scraper
+name: cs oop scraper
 
 on: 
-  workflow_dispatch
-  # schedule:
-  #   - cron: '*/1 * * * *'
+  schedule:
+    - cron: '*/1 * * * *'
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
+
       - name: Checkout repository
         uses: actions/checkout@v3
 
@@ -18,13 +17,8 @@ jobs:
         with:
           python-version: '3.9'
 
-      - name: Update and install dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y libnss3
-          # Manual installation for libgconf-2-4
-          wget http://archive.ubuntu.com/ubuntu/pool/universe/g/gconf/libgconf-2-4_3.2.6-6_amd64.deb
-          sudo dpkg -i libgconf-2-4_3.2.6-6_amd64.deb || sudo apt-get -f install
+      - name: Install dependencies
+        run: sudo apt-get update && sudo apt-get install -y libnss3 libgconf-2-4
 
       - name: Verify Chromium and Chromedriver installation
         run: |
