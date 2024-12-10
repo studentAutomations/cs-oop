@@ -9,9 +9,9 @@ chrome_options = Options()
 chrome_options.add_argument("--headless")  
 chrome_options.add_argument("--no-sandbox")
 chrome_options.add_argument("--disable-dev-shm-usage")
-chrome_options.binary_location = "/usr/bin/google-chrome"  # Updated for GitHub runner
+chrome_options.binary_location = "/usr/bin/chromium-browser"  # Koristimo tačnu putanju za Chromium
 
-browser_driver = Service('/usr/bin/chromedriver')  # Updated for GitHub runner
+browser_driver = Service('/usr/bin/chromedriver')  # Putanja za Chromedriver
 
 page_to_scrape = webdriver.Chrome(service=browser_driver, options=chrome_options)
 
